@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pendidikan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Pendidikan.xsd">
+	<Mahasiswa>
+			<NPM>1154075</NPM>
+			<Nama>Arya</Nama>
+			<JK>Pria</JK>
+			<Alamat>Sarijadi</Alamat>
+			<AsalDaerah>Tarutung</AsalDaerah>
+			<NoHp>082304512284</NoHp>
+			<Agama>Islam</Agama>
+			<Email>arya.mohammad00@gmail.com</Email>
+		<Studi>
+			<Jurusan>Teknik Informatika</Jurusan>
+			<Prodi>D4</Prodi>
+		</Studi>
+	</Mahasiswa>
+	
+	<Mahasiswa>
+			<NPM>1154024</NPM>
+			<Nama>Adam</Nama>
+			<JK>Pria</JK>
+			<Alamat>Sarijadi</Alamat>
+			<AsalDaerah>Salatiga</AsalDaerah>
+			<NoHp>082300112233</NoHp>
+			<Agama>Islam</Agama>
+			<Email>adam.mohammad00@gmail.com</Email>
+		<Studi>
+			<Jurusan>Teknik Informatika</Jurusan>
+			<Prodi>D4</Prodi>
+		</Studi>
+	</Mahasiswa>
+	
+	<Mahasiswa>
+			<NPM>1154094</NPM>
+			<Nama>Akbar</Nama>
+			<JK>Pria</JK>
+			<Alamat>Sarijadi</Alamat>
+			<AsalDaerah>Sinjai</AsalDaerah>
+			<NoHp>082300223344</NoHp>
+			<Agama>Islam</Agama>
+			<Email>akbar.mohammad00@gmail.com</Email>
+		<Studi>
+			<Jurusan>Teknik Informatika</Jurusan>
+			<Prodi>D4</Prodi>
+		</Studi>
+	</Mahasiswa>
+	
+	<Mahasiswa>
+			<NPM>1154068</NPM>
+			<Nama>Julham</Nama>
+			<JK>Pria</JK>
+			<Alamat>Sarijadi</Alamat>
+			<AsalDaerah>Tarutung</AsalDaerah>
+			<NoHp>082300334455</NoHp>
+			<Agama>Islam</Agama>
+			<Email>arya.mohammad00@gmail.com</Email>
+		<Studi>
+			<Jurusan>Teknik Informatika</Jurusan>
+			<Prodi>D4</Prodi>
+		</Studi>
+	</Mahasiswa>
+	
+	<Mahasiswa>
+			<NPM>1154074</NPM>
+			<Nama>Tito</Nama>
+			<JK>Pria</JK>
+			<Alamat>Sarijadi</Alamat>
+			<AsalDaerah>Depok</AsalDaerah>
+			<NoHp>082300445566</NoHp>
+			<Agama>Islam</Agama>
+			<Email>tito.mohammad00@gmail.com</Email>
+		<Studi>
+			<Jurusan>Teknik Informatika</Jurusan>
+			<Prodi>D4</Prodi>
+		</Studi>
+	</Mahasiswa>
+</Pendidikan>
